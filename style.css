@@ -1,0 +1,168 @@
+*{
+    margin: 0;
+    
+   
+}
+
+.back{
+    background-color: #3f5c9a;
+    height: 100px;
+    width: 100%;
+    position: relative;
+}
+
+
+.face{
+    color: white;
+    position: absolute;
+    top: 30%;
+    left: 5%;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.form{
+    
+    
+    color: white;
+    position: absolute;
+    top: 20%;
+    right: 100px;
+}
+
+.form-2{
+    
+    
+    color: white;
+    position: absolute;
+    top: 17%;
+    right: 100px;
+}
+
+
+.frgt{
+    text-decoration: none;
+    color: rgb(225, 219, 219);
+    margin-left: 61%;
+    line-height: 25px;
+}
+
+button {
+    
+        
+    background: linear-gradient(#3f5c9a, #2c4a8a);
+    background-color: #3f5c9a;
+    box-shadow: inset 0 1px 1px #293260;
+    border-color: #2c457c #39559b #3a5691;
+        color: white;
+        padding: 2px 5px;
+        border: none;
+    }
+    
+
+
+.Container{
+    background-color: #E2E5F0;
+    width: 100%;
+    height: 600px;
+    position: relative;
+}
+
+img{
+    width: 700px;
+    height: 300px;
+    position: absolute;
+    top: 100px;
+    left: 50px;
+}
+
+.cn-2{
+    position: absolute;
+    color: #273a65;
+    font-size: 25px;
+    top: 40px;
+    left: 100px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif
+
+}
+.sign-up{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    
+}
+
+/* .form{
+    
+} */
+
+input[type=text ]{
+    width: 40%;
+    padding: 12px;
+    
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    resize: vertical;
+  }
+
+  #email , #pswrd{
+    
+        width: 92%;
+        padding: 12px;
+        
+        border: 1px solid #ccc;
+        border-radius: 3px;
+        resize: vertical;
+      }
+  table , .radio{
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    
+  }
+select{
+    width: 30%;
+    padding: 10px;
+    display: inline;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    resize: vertical;
+    
+    
+  }
+
+  .para{
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgb(116, 113, 113);
+    font-size: 12px;
+  }
+  .submit-button input{
+    font-size: 19px;
+    font-family: 'Freight Sans Bold', Helvetica, Arial, sans-serif !important;
+    font-weight: bold !important;
+    text-rendering: optimizeLegibility;
+    min-width: 194px;
+    padding: 7px 20px;
+    text-align: center;
+    line-height: 126%;
+    background: linear-gradient(#67ae55, #578843);
+    background-color: #69a74e;
+    box-shadow: inset 0 1px 1px #a4e388;
+    border-color: #3b6e22 #3b6e22 #2c5115;
+    border-radius: 5px;
+    color: #fff;
+    cursor: pointer;
+    display: inline-block;
+    position: relative;
+    text-shadow: 0 1px 2px rgba(0,0,0,.5);
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+.page{
+    color: rgb(83, 82, 82);
+    font-size: 13px;
+   
+    
+}
+.page a{
+    text-decoration: none;
+}
